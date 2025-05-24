@@ -1,8 +1,4 @@
 # Air Canvas - Draw with Hand Gestures
-BY Y1-2024-25-G246
-KHUSHI 2401201102 TEESHA 2401201039 VIVAN 240120199 DEEPAK 2401201071
-
-VIDEO LINK https://github.com/Dahiyakhushi/khushi_BCAB_AIRCANVAS/blob/main/project%20explanation.mp4
 
 Air Canvas is a web-based application that allows users to draw in the air using hand gestures captured through their webcam. The application uses MediaPipe for hand tracking and provides features like color selection, drawing saving, and a gallery view.
 
